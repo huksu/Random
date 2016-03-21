@@ -1,0 +1,12 @@
+push 1
+push 22.3
+push 24.3
+peek
+pop
+pop
+pop
+push 0
+isEmpty
+pop
+isEmpty
+pop
